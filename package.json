@@ -1,0 +1,9 @@
+{
+  "name": "vercel-hf-wrapper",
+  "version": "1.0.0",
+  "description": "Forward requests to Hugging Face",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
